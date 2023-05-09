@@ -1,5 +1,5 @@
 # Folders by topic
----
+
 - [Variables](https://github.com/OmarAllouch/rustlings-solved/tree/main/variables)
 - [Functions](https://github.com/OmarAllouch/rustlings-solved/tree/main/functions)
 - [If](https://github.com/OmarAllouch/rustlings-solved/tree/main/if)
