@@ -1,27 +1,25 @@
-# Exercise to Book Chapter mapping
-
-| Exercise               | Book Chapter        |
-| ---------------------- | ------------------- |
-| variables              | §3.1                |
-| functions              | §3.3                |
-| if                     | §3.5                |
-| primitive_types        | §3.2, §4.3          |
-| vecs                   | §8.1                |
-| move_semantics         | §4.1-2              |
-| structs                | §5.1, §5.3          |
-| enums                  | §6, §18.3           |
-| strings                | §8.2                |
-| modules                | §7                  |
-| hashmaps               | §8.3                |
-| options                | §10.1               |
-| error_handling         | §9                  |
-| generics               | §10                 |
-| traits                 | §10.2               |
-| tests                  | §11.1               |
-| lifetimes              | §10.3               |
-| iterators              | §13.2-4             |
-| threads                | §16.1-3             |
-| smart_pointers         | §15, §16.3          |
-| macros                 | §19.6               |
-| clippy                 | §21.4               |
-| conversions            | n/a                 |
+# Folders by topic
+---
+- [Variables](https://github.com/OmarAllouch/rustlings-solved/tree/main/variables)
+- [Functions](https://github.com/OmarAllouch/rustlings-solved/tree/main/functions)
+- [If](https://github.com/OmarAllouch/rustlings-solved/tree/main/if)
+- [Primitive types](https://github.com/OmarAllouch/rustlings-solved/tree/main/primitive_types)
+- [Vecs](https://github.com/OmarAllouch/rustlings-solved/tree/main/vecs)
+- [Move semantics](https://github.com/OmarAllouch/rustlings-solved/tree/main/move_semantics)
+- [Structs](https://github.com/OmarAllouch/rustlings-solved/tree/main/structs)
+- [Enums](https://github.com/OmarAllouch/rustlings-solved/tree/main/enums)
+- [Strings](https://github.com/OmarAllouch/rustlings-solved/tree/main/strings)
+- [Modules](https://github.com/OmarAllouch/rustlings-solved/tree/main/modules)
+- [Hashmaps](https://github.com/OmarAllouch/rustlings-solved/tree/main/hashmaps)
+- [Options](https://github.com/OmarAllouch/rustlings-solved/tree/main/options)
+- [Error handling](https://github.com/OmarAllouch/rustlings-solved/tree/main/error_handling)
+- [Generics](https://github.com/OmarAllouch/rustlings-solved/tree/main/generics)
+- [Traits](https://github.com/OmarAllouch/rustlings-solved/tree/main/traits)
+- [Tests](https://github.com/OmarAllouch/rustlings-solved/tree/main/tests)
+- [Lifetimes](https://github.com/OmarAllouch/rustlings-solved/tree/main/lifetimes)
+- [Iterators](https://github.com/OmarAllouch/rustlings-solved/tree/main/iterators)
+- [Threads](https://github.com/OmarAllouch/rustlings-solved/tree/main/threads)
+- [Smart pointers](https://github.com/OmarAllouch/rustlings-solved/tree/main/smart_pointers)
+- [Macros](https://github.com/OmarAllouch/rustlings-solved/tree/main/macros)
+- [Clippy](https://github.com/OmarAllouch/rustlings-solved/tree/main/clippy)
+- [Conversions](https://github.com/OmarAllouch/rustlings-solved/tree/main/conversions)
